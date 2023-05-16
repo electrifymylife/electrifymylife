@@ -1,16 +1,25 @@
-### Hi there 👋
+Привет!\
+Меня зовут Галя, и я активно изучаю frontend-разработку.
 
-<!--
-**electrifymylife/electrifymylife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мои работы 
 
-Here are some ideas to get you started:
+* коммерческие проекты 🐓
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  _...in progress..._
+
+* демо-проекты 🐥
+
+| Repo | Web page | Description | Stack |
+|-------|----------|---------|---------|
+| [lp-organic-fruits](https://github.com/electrifymylife/lp-organic-fruits) | [lp-organic-fruits](https://electrifymylife.github.io/lp-organic-fruits/) | Лендинг | <code>SCSS</code> <code>JS</code> <code>Parallax</code> <code>Swiper</code> <code>Gulp</code> |
+| [ruby-home](https://github.com/electrifymylife/ruby-home) | [ruby-home](https://electrifymylife.github.io/ruby-home/) | Лендинг | <code>SCSS</code> <code>JS</code> <code>Grid</code> <code>Swiper</code> <code>Gulp</code> |
+| [price-switcher](https://github.com/electrifymylife/price-switcher) | [price-switcher](https://electrifymylife.github.io/price-switcher/) | Демо-блок | <code>SCSS</code> <code>JS</code> <code>Gulp</code> |
+| [simple-accordion](https://github.com/electrifymylife/simple-accordion) | [simple-accordion](https://electrifymylife.github.io/simple-accordion/) | Демо-блок | <code>SCSS</code> <code>JS</code> <code>Gulp</code> |
+
+
+* учебные проекты 🐣
+
+| Repo | Web page | Description | Stack |
+|-------|----------|---------|---------|
+| [nerds](https://github.com/electrifymylife/828239-nerds) | [nerds](https://electrifymylife.github.io/828239-nerds/) | Главная + каталог | <code>CSS</code> <code>JS</code> |
+| [mishka](https://github.com/electrifymylife/828239-mishka-16) | - | Главная + каталог | <code>SCSS</code> <code>JS</code> <code>Gulp</code> |
