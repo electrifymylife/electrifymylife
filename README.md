@@ -1,6 +1,6 @@
 ### Мои работы 
 
-* коммерческие проекты 🐓
+🐓 коммерческие проекты
 
 | Repo | Web page | Description | Stack |
 |-------|----------|---------|---------|
@@ -8,8 +8,9 @@
 | [landing-pages](https://github.com/electrifymylife/landing-pages) | [landing-pages](https://electrifymylife-landing-pages.netlify.app/) | Лендинги, 3 страницы | <code>React (Gatsby)</code> <code>JSX</code> <code>SCSS</code> <code>CSS Modules</code> <code>Material UI</code> |
 | [ui-kit-little-library](https://github.com/electrifymylife/ui-kit-little-library) | [ui-kit-little-library](https://ui-kit-little-library.netlify.app/) | Кастомный UI-kit | <code>HTML</code> <code>SCSS</code> <code>Gulp</code> |
 
-* учебные проекты 🐥
+🐥 учебные проекты (done at [RS School](https://rs.school/) ❤️) 
 
 | Repo | Web page | Description | Stack |
 |-------|----------|---------|---------|
 | [christmas-shop](https://github.com/electrifymylife/christmas-shop) | [christmas-shop](https://electrifymylife.github.io/christmas-shop/index.html) | Главная и каталог | <code>HTML</code> <code>SCSS</code> <code>Vanilla JS</code> <code>REST Api</code> <code>Vite</code> |
+| [HTML-builder](https://github.com/electrifymylife/HTML-builder) | - | Набор консольных утилит, сборщик проекта | <code>NodeJS</code> |
